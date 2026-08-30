@@ -254,3 +254,17 @@ FUTURE_DS_01/
 ├── Business_Sales_Analysis.ipynb
 ├── cleaned_sales_powerbi1 (1).xlsx
 └── Business_Sales_Performance_Analytics.pbix
+
+
+---
+
+## 👤 Author
+
+** Anshika Sahu**
+
+Data Science & Analytics Intern
+
+### Internship
+**Future Interns – Data Science & Analytics Internship**
+
+**Task 1: Business Sales Performance Analytics**
